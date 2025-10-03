@@ -1,6 +1,6 @@
+import './style.css';
 import React, { useState } from "react";
 import ReactDOM from "react-dom/client";
-import './style.css';
 import carImage from './assets/car-insu.avif';
 
 function MultiStepForm() {
